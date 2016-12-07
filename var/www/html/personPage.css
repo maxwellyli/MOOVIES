@@ -1,0 +1,22 @@
+#data {
+	padding-left: 100px;
+	padding-right: 100px;
+	padding-top: 40px;
+	padding-bottom: 100px;
+}
+
+#list {
+	padding-left: 25px;
+}
+
+#gender {
+	padding-left: 25px;
+}
+
+#dob {
+	padding-left: 25px;
+}
+
+h5, h1 {
+	color: indigo;
+}

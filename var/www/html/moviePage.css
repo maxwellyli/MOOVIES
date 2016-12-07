@@ -1,0 +1,54 @@
+#data {
+	float: left;
+	padding-top: 40px;
+	padding-left: 100px;	
+	width: 40%;
+}
+
+#tweetmaps {
+	float: right;
+}
+
+#map {
+	float: right;
+	width: 40%;
+	margin-top: 60px;
+	margin-right: 100px;
+	margin-bottom: 60px;
+}
+
+#tweets {
+	float: right;
+	height: 440px;
+	overflow-y:auto;
+	margin-top: 140px;
+	margin-right: 100px;
+}
+
+#director_list {
+	padding-left:25px;
+}
+
+#cast_list {
+	padding-left:25px;
+	padding-bottom: 50px;
+}
+
+#plot {
+	padding-left:25px;
+}
+
+h5, h1 {
+	color: indigo;
+}
+
+::-webkit-scrollbar {
+	-webkit-appearance: none;
+	width: 7px;
+}
+
+::-webkit-scrollbar-thumb {
+	border-radius: 4px;
+	background-color: rgba(0,0,0,.5);
+	-webkit-box-shadow: 0 0 1px rgba(255,255,255,.5);
+}
