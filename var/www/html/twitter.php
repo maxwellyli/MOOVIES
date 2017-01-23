@@ -1,7 +1,7 @@
 <?php
 	//TOP SECRET DO NOT SHARE TOP SECRET//
-	$app_key = '3mmLV70CPlH6EsM7IQqDo9DEO';
-	$app_token = 'fG7RHLDtEnbcJDyJ1zHdogrSv37PBwGLfDzeBOcjGHsFX9kHNK';
+	$app_key = 'none';
+	$app_token = 'none';
 	//TOP SECRET DO NOT SHARE TOP SECRET//
 	$api_base = 'https://api.twitter.com/';
 	$bearer_token_creds = base64_encode($app_key.':'.$app_token);
